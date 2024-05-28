@@ -95,6 +95,8 @@ sudo docker-compose -f docker-compose.yml --compatibility up -d
 - [Broken Object Level Authorization](Broken%20Object%20Level%20Authorization.md)
 - [Broken User Authentication](Broken%20User%20Authentication.md)
 - [Excessive Data Exposure](Excessive%20Data%20Exposure.md)
+- [Rate Limiting](Rate%20Limiting.md)
+- [Broken Function Level Authorization (BFLA)](Broken%20Level%20Function%20Authorization.md)
 
 ## Disclaimer
 Semua materi yang disajikan disini hanya digunakan sebagai media pembelajaran. Penulis tidak bertanggung jawab atas penyalahgunaan dari materi tersebut
