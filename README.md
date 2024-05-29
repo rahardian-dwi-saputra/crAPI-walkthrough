@@ -97,6 +97,7 @@ sudo docker-compose -f docker-compose.yml --compatibility up -d
 - [Excessive Data Exposure](Excessive%20Data%20Exposure.md)
 - [Rate Limiting](Rate%20Limiting.md)
 - [Broken Function Level Authorization (BFLA)](Broken%20Level%20Function%20Authorization.md)
+- [Mass Assignment](Mass%20Assignment.md)
 
 ## Disclaimer
 Semua materi yang disajikan disini hanya digunakan sebagai media pembelajaran. Penulis tidak bertanggung jawab atas penyalahgunaan dari materi tersebut
