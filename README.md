@@ -98,6 +98,8 @@ sudo docker-compose -f docker-compose.yml --compatibility up -d
 - [Rate Limiting](Rate%20Limiting.md)
 - [Broken Function Level Authorization (BFLA)](Broken%20Level%20Function%20Authorization.md)
 - [Mass Assignment](Mass%20Assignment.md)
+- [Server-Side Request Forgery (SSRF)](Server%20Side%20Request%20Forgery.md)
+- [NoSQL Injection](NoSQL%20Injection.md)
 
 ## Disclaimer
 Semua materi yang disajikan disini hanya digunakan sebagai media pembelajaran. Penulis tidak bertanggung jawab atas penyalahgunaan dari materi tersebut
