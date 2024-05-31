@@ -100,6 +100,9 @@ sudo docker-compose -f docker-compose.yml --compatibility up -d
 - [Mass Assignment](Mass%20Assignment.md)
 - [Server-Side Request Forgery (SSRF)](Server%20Side%20Request%20Forgery.md)
 - [NoSQL Injection](NoSQL%20Injection.md)
+- [SQL Injection](SQL%20Injection.md)
+- [Unauthenticated Access](Unauthenticated%20Access.md)
+- [JWT Vulnerabilities](JWT%20Vulnerabilities.md)
 
 ## Disclaimer
 Semua materi yang disajikan disini hanya digunakan sebagai media pembelajaran. Penulis tidak bertanggung jawab atas penyalahgunaan dari materi tersebut
